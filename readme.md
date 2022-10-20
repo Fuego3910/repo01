@@ -1,0 +1,2 @@
+# Como crear un repositorio:
+Para crear un repositorio usamos la comanda mkdir [(ejemplo de mkdir)](https://www.google.com/search?q=mkdir&rlz=1C1CHZN_esES1028ES1028&sxsrf=ALiCzsZBVqa-BdAkUSv7ueugofcDb_ByOA:1666261152117&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi0sczAyu76AhXRxYUKHdvqAzYQ_AUoAXoECAIQAw&biw=1366&bih=657&dpr=1#imgrc=mTzUHGd8Rrht5M) y a continuación el nombre que le queremos dar a ese repositorio. 
